@@ -1,7 +1,11 @@
 import time
 from web3 import Web3, HTTPProvider
 
+<<<<<<< HEAD
 
+=======
+api = "https://ropsten.infura.io/EF0HiTihtDEGGyVZ5Yvs"
+>>>>>>> 422a917935b9ab2b66b0f1aab7b1f5869608c2dd
 
 web3 = Web3(HTTPProvider(api))
 

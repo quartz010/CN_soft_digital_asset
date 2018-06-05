@@ -102,7 +102,11 @@ class RemoteProc(object):
 
         
 app_key = '1106953556'
+<<<<<<< HEAD
 app_id = ''
+=======
+app_id = 'nZ6D4DlLUIkczG92'
+>>>>>>> 422a917935b9ab2b66b0f1aab7b1f5869608c2dd
 
 a = RemoteProc()
 a.picOCR()
